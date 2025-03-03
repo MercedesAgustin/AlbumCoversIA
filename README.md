@@ -33,7 +33,7 @@ Este proyecto propone un sistema basado en IA que genera portadas de álbumes ut
 
 🎯 Objetivos
 
-1️⃣ Implementar una POC en Jupyter Notebook para demostrar la generación de portadas con IA.
+1️⃣ Implementar una POC en Google Colab para demostrar la generación de portadas con IA.
 2️⃣ Experimentar con diferentes configuraciones de prompts para mejorar la eficacia del modelo.
 3️⃣ Optimizar la cantidad de consultas a la API para reducir costos.
 4️⃣ Evaluar si Fast Prompting mejora la calidad de los resultados.
@@ -53,7 +53,7 @@ Este proyecto propone un sistema basado en IA que genera portadas de álbumes ut
 
 🏗️ Implementación
 
-Se desarrollará una Jupyter Notebook donde se podrá:
+Se desarrollará una Google Colab Notebook donde se podrá:
 
 🔹 Ingresar información del artista y estilo musical.
 🔹 Generar prompts optimizados.
